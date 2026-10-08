@@ -1,0 +1,617 @@
+{
+  "assets": [
+    {
+      "id": "mardin1",
+      "type": "video",
+      "title": "UNESCO Dünya Mirası Mardin Ulu Camii",
+      "accessibilityLabel": "UNESCO Dünya Mirası Mardin Ulu Camii",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/mardin1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "UNESCO Dünya Mirası: Mardin Ulu Camii",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Mardin Ulu Camii'nde Gün Batımı"
+      ]
+    },
+    {
+      "id": "ayasofya1",
+      "type": "video",
+      "title": "Ayasofya Camii İstanbul günbatımı altında zamansız bir silüet",
+      "accessibilityLabel": "Ayasofya Camii İstanbul günbatımı altında zamansız bir silüet",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/ayasofya1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Ayasofya Camii İstanbul günbatımı altında zamansız bir silüet",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ayasofya Camii İstanbul günbatımı köprü silüetiyle büyüleyici"
+      ]
+    },
+    {
+      "id": "mardin2",
+      "type": "video",
+      "title": "Günbatımı eşliğinde Mardin Ulucami'yi seyrediyoruz",
+      "accessibilityLabel": "Günbatımı eşliğinde Mardin Ulucami'yi seyrediyoruz",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/mardin2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Günbatımı eşliğinde Mardin Ulucami'yi seyrediyoruz"
+      ]
+    },
+    {
+      "id": "bogaz1",
+      "type": "video",
+      "title": "Gece ışıkları altında Boğaz köprüsü nefes kesiyor",
+      "accessibilityLabel": "Gece ışıkları altında Boğaz köprüsü nefes kesiyor",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/bogaz1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Gece ışıkları altında Boğaz köprüsü nefes kesiyor"
+      ]
+    },
+    {
+      "id": "halic1",
+      "type": "video",
+      "title": "Haliç köprüsü, şehir ve deniz aynı anda nefes alıyor",
+      "accessibilityLabel": "Haliç köprüsü, şehir ve deniz aynı anda nefes alıyor",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/halic1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Haliç köprüsü, şehir ve deniz aynı anda nefes alıyor"
+      ]
+    },
+    {
+      "id": "balat1",
+      "type": "video",
+      "title": "Balat ve Aziz George, zamana karşı",
+      "accessibilityLabel": "Balat ve Aziz George, zamana karşı",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/balat1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Balat ve Aziz George, zamana karşı"
+      ]
+    },
+    {
+      "id": "eminonu1",
+      "type": "video",
+      "title": "Eminönü’nde günbatımı, denizle gelen huzur",
+      "accessibilityLabel": "Eminönü’nde günbatımı, denizle gelen huzur",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/eminonu1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Eminönü’nde günbatımı, denizle gelen huzur"
+      ]
+    },
+    {
+      "id": "rumeli1",
+      "type": "video",
+      "title": "Rumeli Hisarı hâlâ sağlam, hâlâ burada",
+      "accessibilityLabel": "Rumeli Hisarı hâlâ sağlam, hâlâ burada",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/rumeli1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Rumeli Hisarı hâlâ sağlam, hâlâ burada"
+      ]
+    },
+    {
+      "id": "halic2",
+      "type": "video",
+      "title": "Haliç panoraması, akşamla mühürlenir",
+      "accessibilityLabel": "Haliç panoraması, akşamla mühürlenir",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/halic2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Haliç panoraması, akşamla mühürlenir"
+      ]
+    },
+    {
+      "id": "bozdogan1",
+      "type": "video",
+      "title": "Bozdoğan Kemeri’nden sızan zaman ve şehir",
+      "accessibilityLabel": "Bozdoğan Kemeri’nden sızan zaman ve şehir",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/bozdogan1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Bozdoğan Kemeri’nden sızan zaman ve şehir"
+      ]
+    },
+    {
+      "id": "camlica1",
+      "type": "video",
+      "title": "Günbatımında denizdeyiz, Çamlıca ufukta",
+      "accessibilityLabel": "Günbatımında denizdeyiz, Çamlıca ufukta",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/camlica1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Günbatımında denizdeyiz, Çamlıca ufukta"
+      ]
+    },
+    {
+      "id": "yss",
+      "type": "video",
+      "title": "Yavuz Sultan Selim’in altından dev gemi süzülür",
+      "accessibilityLabel": "Yavuz Sultan Selim’in altından dev gemi süzülür",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/yss.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Yavuz Sultan Selim’in altından dev gemi süzülür"
+      ]
+    },
+    {
+      "id": "bolu1",
+      "type": "video",
+      "title": "Bolu’da kar altındaki ağaçların üzerinden süzülüyoruz",
+      "accessibilityLabel": "Bolu’da kar altındaki ağaçların üzerinden süzülüyoruz",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/bolu1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Bolu’da kar altındaki ağaçların üzerinden süzülüyoruz"
+      ]
+    },
+    {
+      "id": "bolu2",
+      "type": "video",
+      "title": "Karlı havada Gölcük Konukevi, Bolu",
+      "accessibilityLabel": "Karlı havada Gölcük Konukevi, Bolu",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/bolu2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Karlı havada Gölcük Konukevi, Bolu"
+      ]
+    },
+    {
+      "id": "kastamonu1",
+      "type": "video",
+      "title": "Yemyeşil Kastamonu Kanyonu içinden süzülüp geçtik",
+      "accessibilityLabel": "Yemyeşil Kastamonu Kanyonu içinden süzülüp geçtik",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kastamonu1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Yemyeşil Kastamonu Kanyonu içinden süzülüp geçtik"
+      ]
+    },
+    {
+      "id": "kastamonu2",
+      "type": "video",
+      "title": "Kastamonu ormanları yeşille nefes alıyor",
+      "accessibilityLabel": "Kastamonu ormanları yeşille nefes alıyor",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kastamonu2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Kastamonu ormanları yeşille nefes alıyor"
+      ]
+    },
+    {
+      "id": "ankara1",
+      "type": "video",
+      "title": "Doğa ve sabır aynı çizgide, Ankara, Nallıhan Kuş Cenneti",
+      "accessibilityLabel": "Doğa ve sabır aynı çizgide, Ankara, Nallıhan Kuş Cenneti",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/ankara1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Doğa ve sabır aynı çizgide, Ankara, Nallıhan Kuş Cenneti"
+      ]
+    },
+    {
+      "id": "kayseri1",
+      "type": "video",
+      "title": "Kayseri’nin kalbinden yükselen kadim Erciyes",
+      "accessibilityLabel": "Kayseri’nin kalbinden yükselen kadim Erciyes",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kayseri1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Kayseri’nin kalbinden yükselen kadim Erciyes"
+      ]
+    },
+    {
+      "id": "ayasofya2",
+      "type": "video",
+      "title": "Önde Alman Çeşmesi, arkada Ayasofya — Sultanahmet",
+      "accessibilityLabel": "Önde Alman Çeşmesi, arkada Ayasofya — Sultanahmet",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/ayasofya2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Önde Alman Çeşmesi, arkada Ayasofya — Sultanahmet"
+      ]
+    },
+    {
+      "id": "ayasofya3",
+      "type": "video",
+      "title": "Hipodrom’da tarih hizaya girer",
+      "accessibilityLabel": "Hipodrom’da tarih hizaya girer",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/ayasofya3.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Hipodrom’da tarih hizaya girer",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Ve tarihin ekseni Ayasofya’da birleşir"
+      ]
+    },
+    {
+      "id": "bogaz2",
+      "type": "video",
+      "title": "Boğaz’da günbatımı, gemi sessizce süzülür",
+      "accessibilityLabel": "Boğaz’da günbatımı, gemi sessizce süzülür",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/bogaz2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Boğaz’da günbatımı, gemi sessizce süzülür...",
+        null,
+        null,
+        null,
+        null,
+        "Ve martı girer, sahne tamamlanır."
+      ]
+    },
+    {
+      "id": "sultanahmet",
+      "type": "video",
+      "title": "Paylaşmak, bu şehrin ezberidir. — Sultanahmet",
+      "accessibilityLabel": "Paylaşmak, bu şehrin ezberidir. — Sultanahmet",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/sultanahmet.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Paylaşmak, bu şehrin ezberidir. — Sultanahmet"
+      ]
+    },
+    {
+      "id": "halfeti",
+      "type": "video",
+      "title": "halfeti",
+      "accessibilityLabel": "halfeti",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/halfeti.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Halfeti (Batık Şehir), Fırat üzerinde sakin bir durak"
+      ]
+    },
+    {
+      "id": "tazikanyonu",
+      "type": "video",
+      "title": "Antalya Manavgat’ta Tazı Kanyonu",
+      "accessibilityLabel": "Antalya Manavgat’ta Tazı Kanyonu",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/tazikanyonu.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Antalya Manavgat’ta Tazı Kanyonu"
+      ]
+    },
+    {
+      "id": "antalyakasplaj",
+      "type": "video",
+      "title": "Kaş’ta güneşli bir plaj günü",
+      "accessibilityLabel": "Kaş’ta güneşli bir plaj günü",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/antalyakasplaj.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Kaş’ta güneşli bir plaj günü"
+      ]
+    },
+    {
+      "id": "kapadokya1",
+      "type": "video",
+      "title": "Kapadokya, İç Anadolu’da benzersiz bir bölge",
+      "accessibilityLabel": "Kapadokya, İç Anadolu’da benzersiz bir bölge",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kapadokya1.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Kapadokya, İç Anadolu’da benzersiz bir bölge"
+      ]
+    },
+    {
+      "id": "kapadokya2",
+      "type": "video",
+      "title": "Kapadokya, başka bir dünya",
+      "accessibilityLabel": "Kapadokya, başka bir dünya",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kapadokya2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Kapadokya, başka bir dünya"
+      ]
+    },
+    {
+      "id": "kapadokya3",
+      "type": "video",
+      "title": "Kapadokya, zamanın rüzgârla şekil aldığı masalsı bir sessizliktir.",
+      "accessibilityLabel": "Kapadokya, zamanın rüzgârla şekil aldığı masalsı bir sessizliktir.",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kapadokya3.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Kapadokya, zamanın rüzgârla şekil aldığı masalsı bir sessizliktir."
+      ]
+    },
+    {
+      "id": "bodrumyeldegirmeni",
+      "type": "video",
+      "title": "Bodrum Yel Değirmeni, rüzgârla çevrili bir manzara",
+      "accessibilityLabel": "Bodrum Yel Değirmeni, rüzgârla çevrili bir manzara",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/bodrumyeldegirmeni.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Bodrum Yel Değirmeni, rüzgârla çevrili bir manzara"
+      ]
+    },
+    {
+      "id": "suluada",
+      "type": "video",
+      "title": "Suluada’ya uzaktan bir bakış",
+      "accessibilityLabel": "Suluada’ya uzaktan bir bakış",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/suluada.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Suluada’ya uzaktan bir bakış"
+      ]
+    },
+    {
+      "id": "kelebeklervadisi_r2",
+      "type": "video",
+      "title": "Kelebekler Vadisi’nden bir manzara",
+      "accessibilityLabel": "Kelebekler Vadisi’nden bir manzara",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kelebeklervadisi_r2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Kelebekler Vadisi’nden bir manzara"
+      ]
+    },
+    {
+      "id": "nemrutkratergolu",
+      "type": "video",
+      "title": "Hiçliğin içinde Nemrut Krater Gölü",
+      "accessibilityLabel": "Hiçliğin içinde Nemrut Krater Gölü",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/Nemrutkratergolu.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Hiçliğin içinde Nemrut Krater Gölü"
+      ]
+    },
+    {
+      "id": "karadenizdenbirkoy",
+      "type": "video",
+      "title": "Karadeniz’de bir köy",
+      "accessibilityLabel": "Karadeniz’de bir köy",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/karadenizdenbirkoy.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        "Karadeniz’de bir köy"
+      ]
+    },
+    {
+      "id": "hapantepe",
+      "type": "video",
+      "title": "Hapantepe Köyü - Samsun Terme",
+      "accessibilityLabel": "Hapantepe Köyü - Samsun Terme",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/hapantepe.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Bizim köyün kuşbakışı hali; dağ, yeşil, huzur bir arada."
+      ]
+    },
+    {
+      "id": "beyoglu",
+      "type": "video",
+      "title": "Beyoğlu’ndan günlük bir manzara, şehrin içinden bir an.",
+      "accessibilityLabel": "Beyoğlu’ndan günlük bir manzara, şehrin içinden bir an.",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/beyoglu.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": []
+    },
+    {
+      "id": "vapur",
+      "type": "video",
+      "title": "Karaköy sahili, vapur camından ayrı bir güzel.",
+      "accessibilityLabel": "Karaköy sahili, vapur camından ayrı bir güzel.",
+      "description": "",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/vapur.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "pointsOfInterest": []
+    },
+    {
+      "id": "kule",
+      "type": "video",
+      "title": "kule",
+      "accessibilityLabel": "İstanbul’un modern simgelerinden Çamlıca Kulesi",
+      "description": "kule",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kule.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "metadata": {
+        "fileSize": "11.39 MB",
+        "fileName": "kule.mp4"
+      }
+    },
+    {
+      "id": "karanlikkanyon",
+      "type": "video",
+      "title": "karanlikkanyon",
+      "accessibilityLabel": "Erzincan’ın saklı güzelliklerinden Karanlık Kanyon’dan bir kare.",
+      "description": "karanlikkanyon",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/karanlikkanyon.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "metadata": {
+        "fileSize": "23.19 MB",
+        "fileName": "karanlikkanyon.mp4"
+      }
+    },
+    {
+      "id": "kayakoy",
+      "type": "video",
+      "title": "kayakoy",
+      "accessibilityLabel": "Taş evleri ve tarihi dokusuyla Kayaköy bambaşka bir atmosfere sahip.",
+      "description": "kayakoy",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kayakoy.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "metadata": {
+        "fileSize": "12.25 MB",
+        "fileName": "kayakoy.mp4"
+      }
+    },
+    {
+      "id": "kayseri",
+      "type": "video",
+      "title": "kayseri",
+      "accessibilityLabel": "Kayseri ovasında özgürce dolaşan atlarla bozkırın sade güzelliği.",
+      "description": "kayseri",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kayseri.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "metadata": {
+        "fileSize": "15.56 MB",
+        "fileName": "kayseri.mp4"
+      }
+    },
+    {
+      "id": "kayseri2",
+      "type": "video",
+      "title": "kayseri2",
+      "accessibilityLabel": "Kayseri kışında, suyu aşan ineklerle doğanın içinden bir sahne.",
+      "description": "kayseri2",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/kayseri2.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "metadata": {
+        "fileSize": "29.21 MB",
+        "fileName": "kayseri2.mp4"
+      }
+    },
+    {
+      "id": "yavuz",
+      "type": "video",
+      "title": "yavuz",
+      "accessibilityLabel": "Rüzgârın ve denizin üstünde yükselen Yavuz Sultan Selim Köprüsü’nden bir manzara.",
+      "description": "yavuz",
+      "url-4K-SDR": "https://rockky00.github.io/aeview-content/videos/yavuz.mp4",
+      "timeOfDay": "day",
+      "scene": "city",
+      "metadata": {
+        "fileSize": "17.84 MB",
+        "fileName": "yavuz.mp4"
+      }
+    }
+  ]
+}
